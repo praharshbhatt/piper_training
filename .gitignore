@@ -1,0 +1,13 @@
+# Python
+/.venv
+
+# Piper
+/piper
+
+# Content
+*.ckpt
+/content/dataset/*/output/cache/
+/content/dataset/*/output/lighting_logs/
+/content/dataset/*/output/test/
+/content/dataset/*/output/config.json
+/content/dataset/*/output/dataset.json
