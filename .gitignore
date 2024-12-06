@@ -6,6 +6,7 @@
 
 # Content
 *.ckpt
+/content/dataset/*/models_exports/
 /content/dataset/*/output/cache/
 /content/dataset/*/output/lighting_logs/
 /content/dataset/*/output/test/
